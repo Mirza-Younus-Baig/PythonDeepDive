@@ -72,5 +72,7 @@ myList.display()
 myList.delete(0)
 myList.display()
 
+# implement searcing and deletion using value
+
 
 
